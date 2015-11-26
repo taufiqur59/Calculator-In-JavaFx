@@ -1,0 +1,21 @@
+
+.root{
+    -fx-background-color: #383838;
+    -fx-font-size: 14pt;
+    -fx-text-fill: black;
+}
+.text-field{
+    -fx-font-size: 24pt;
+}
+.button{
+    -fx-background-color: #E8E8E8;
+}
+.button-blue{
+    -fx-background-color: #7CAFC2;
+    -fx-text-fill: #F8F8F8;
+}
+.button-orange{
+    -fx-background-color:orange;
+    -fx-text-fill: #F8F8F8;
+    -fx-font-size: 15pt;
+}
